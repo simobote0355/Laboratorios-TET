@@ -12,16 +12,16 @@ EMR es ideal para empresas que necesitan analizar grandes cantidades de datos. S
 Para la creación del clúster en AWS, se siguieron los pasos de la [guía.](https://github.com/st0263eafit/st0263-242/tree/main/bigdata/00-lab-aws-emr)
 
 ### 2.1. Creación del Clúster
-![Clúster]("Lab 0 AWS EMR/images/cluster.png")
+![Clúster](Lab 0 AWS EMR/images/cluster.png)
 
 ### 2.2. Creación del Bucket
-![Bucket]("Lab 0 AWS EMR/images/bucket.png")
+![Bucket](Lab 0 AWS EMR/images/bucket.png)
 
 ### 2.3. Agregar puertos
-![Puertos]("Lab 0 AWS EMR/images/puertos.png")
+![Puertos](Lab 0 AWS EMR/images/puertos.png)
 
 ### 2.4. Ingreso a Hue
-![Hue]("Lab 0 AWS EMR/images/hue.png")
+![Hue](Lab 0 AWS EMR/images/hue.png)
 
 ### 2.5. Ingreso Jupyter Hub (comprobación de variables)
-![Jupyter]("Lab 0 AWS EMR/images/jupyter.png")
+![Jupyter](Lab 0 AWS EMR/images/jupyter.png)
