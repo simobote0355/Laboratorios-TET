@@ -12,7 +12,7 @@ EMR es ideal para empresas que necesitan analizar grandes cantidades de datos. S
 Para la creación del clúster en AWS, se siguieron los pasos de la [guía.](https://github.com/st0263eafit/st0263-242/tree/main/bigdata/00-lab-aws-emr)
 
 ### 2.1. Creación del Clúster
-![Clúster](images/cluster.png)
+![Clúster](images/cluster_ip.png)
 
 ### 2.2. Creación del Bucket
 ![Bucket](images/bucket.png)
