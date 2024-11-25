@@ -1,6 +1,11 @@
 # Lab 2 Hive-SparkSQL
 
 # 1. Hive y SparkSQL
+Hive y SparkSQL son dos tecnologías que permiten ejecutar consultas SQL sobre grandes volúmenes de datos. Aunque ambas tienen algunas similitudes, también presentan diferencias en cómo funcionan. A continuación te doy una breve descripción de cada una y un ejemplo de cómo usarlas.
+
+Hive es una herramienta de data warehousing construida sobre Hadoop que permite ejecutar consultas SQL sobre datos almacenados en HDFS. Hive convierte las consultas SQL en trabajos MapReduce, lo que le permite procesar grandes volúmenes de datos en un clúster Hadoop. Aunque Hive originalmente usa MapReduce, se ha optimizado con versiones más recientes para trabajar con motores más rápidos como Tez y Spark.
+
+SparkSQL es el módulo de Spark que permite ejecutar consultas SQL sobre datos en un clúster Spark. SparkSQL proporciona una interfaz de consulta distribuida de alto rendimiento que se puede ejecutar sobre DataFrames y DataSets en Spark, y soporta tanto consultas SQL como operaciones programáticas en APIs.
 
 # 2. Implementación
 
