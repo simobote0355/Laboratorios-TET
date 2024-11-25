@@ -1,6 +1,12 @@
 # Lab Map Reduce
 
 ## 1. Map Reduce
+MapReduce es un modelo de programación para procesar grandes volúmenes de datos de forma distribuida. Se divide en dos fases:
+
+Map: Procesa los datos y genera pares clave-valor.
+Reduce: Agrupa los pares por clave y los procesa para obtener el resultado final.
+
+Es eficiente, escalable y permite el procesamiento en paralelo en clústeres de computadoras.
 
 ## 2. Implementación
 Se hizo los pasos establecidos en la [guía.](https://github.com/st0263eafit/st0263-242/tree/main/bigdata/02-mapreduce)
