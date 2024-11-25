@@ -34,3 +34,12 @@ Ver archivo *age_distribution_jupyter.csv* en el bucket *sboterodatasets*
 Ver archivo *genre_jupyter.csv* en el bucket *sboterodatasets*
 
 ![3.5](images/3-5.png)
+
+## 2.3. Archivos subidos al bucket
+
+![Bucket 1](images/bucket1.png)
+
+![Bucket 2](images/bucket2.png)
+
+![Bucket 3](images/bucket3.png)
+
