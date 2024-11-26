@@ -47,7 +47,7 @@ Primero, dar permisos al directorio:
 hdfs dfs -chmod -R 777 /user/hadoop/datasets/onu/
 ```
 
-Luego, conectarse a Beeline como se menciona anteriormente.
+Luego, conectarse a *Beeline* como se menciona anteriormente.
 
 Finalmente, carga la información:
 
@@ -63,7 +63,7 @@ LOAD DATA INPATH '/user/hadoop/datasets/onu/hdi-data.csv' INTO TABLE HDI
 
 ### 2.5. Join
 
-Después de ejecutar estos comandos en **Beeline**:
+Después de ejecutar estos comandos en *Beeline*:
 
 ```bash
 CREATE EXTERNAL TABLE EXPO (country STRING, expct FLOAT) 
@@ -79,7 +79,7 @@ Se obtiene lo siguiente:
 
 ![Ordenar por palabras](images/word_sort.png)
 
-### 2.6. Ordenar por palabras
+### 2.7. Ordenar por frecuencia
 
 ![Ordenar por frecuencia](images/count.png)
 
